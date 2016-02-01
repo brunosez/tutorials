@@ -3,7 +3,10 @@
     "version": "0.0.1"
   },
   {
-    "homeUrl": "",
-    "description": ""
+    "homeUrl": "E-resident",
+    "description": "Test Craft AI tuto",
+    "actionLibraries": {
+      "google": true
+    }
   }
 ]
